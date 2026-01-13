@@ -1,5 +1,6 @@
 thumbnail: CISP-ENSO-IOD-On-Onset-of-Summer-Monsoon-Australia-Figure.png
 tags:
+  domains:
   - Climate Science
   - ENSO
   - IOD
@@ -9,3 +10,7 @@ tags:
   - Interannual Variability
   - Climate Teleconnections
   - Precipitation
+  packages:
+  - package1
+  - p2
+  - p3
