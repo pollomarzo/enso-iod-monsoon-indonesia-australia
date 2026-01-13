@@ -1,0 +1,36 @@
+version: 1
+extends:
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
+
+project:
+  authors:
+  - name: Zhixian Yang
+    email: yimu01439@gmail.com
+    affiliations:
+    - School of Atmospheric Sciences, Sun Yat-sen University
+    corresponding: true
+  - name: Selyn Rousse Acuña
+    email: selynacunacama@gmail.com
+  - name: Tejawini M. Pawase
+    email: kintsugi2030@gmail.com
+    affiliations:
+    - Interdisciplinary School of Science, Savitribai Phule Pune University
+  - name: Gizachew Kassa Agegn
+    email: gizachewka@gmail.com
+  - name: Rene Navarro Labastida
+  - name: Rosmery Lidez Condori
+  - name: Naomi Nafisa Rahman
+
+  id: enso-iod-monsoon-indonesia-australia
+  title: Impact of Interannual Variability on the onset of Summer Monsoon over the Indonesia-Northern Australia Region
+  github: https://github.com/pollomarzo/enso-iod-monsoon-indonesia-australia
+  downloads:
+  - file: CISP-ENSO-&IOD-On-Onset-of-Summer-Moonson-Australia-Code.zip
+    title: Code
+  # plugins:
+  # - github-issues.mjs
+
+site:
+  template: book-theme
+  options:
+    hide_toc: true
