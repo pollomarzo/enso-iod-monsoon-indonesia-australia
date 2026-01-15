@@ -2,7 +2,11 @@
 title: Impact of Interannual Variability on the onset of Summer Monsoon over the Indonesia-Northern Australia Region
 subject: Article
 short_title: ENSO and IOD Impact on Summer Monsoon Onset
-keywords: ENSO, IOD, Summer Monsoon, Indonesia, Australia, Interannual Variability, Climate Teleconnections
+keywords: 
+    - ENSO
+    - IOD
+    - Australia
+    - Climate Teleconnections
 abstract: |
     El Nino-Southern Oscillation and Indian Ocean Dipole are two modes of interannual variability that dominate the climate over regions across the tropics and subtropics through atmospheric and oceanic processes. Over the past decades, how these interannual variabilities are linked with precipitation patterns over the Maritime Continent and Northern Australia has been studied, and many insightful hypotheses and useful prediction models have been proposed. In this study, we particularly focus on the teleconnection patterns from interannual variabilities to the onset of summer monsoon over the vast Indonesia-Northern Australia monsoon region during different periods. The analysis suggests that the ENSO phase has a strong positive correlation with the onset of summer monsoon over the Indonesia-Northern Australia region, while the IOD phase has a positive and negative correlation with Indonesia and Northern Australia, respectively. Furthermore, the analysis in different periods argues that the IOD's teleconnection patterns have significantly changed in recent years.
 numbering: 
@@ -31,7 +35,7 @@ The definition of the OSM depends only on the precipitation in this study and it
 
 # ENSO's and IOD's teleconnections with the onset of summer monsoon
 
-According to the methodology defined in the last section, the correlation analysis between ONI (DMI) and OSM in the INA region at different periods was conducted. @fig-enso-iod-teleconnections(a) to (c) shows the positive correlation between OSM and ENSO phase, indicating that the positive phase of ENSO events (i.e., El Niño events) will delay the onset of austral monsoon over the INA region, which is consistent with previous expectations. @fig-enso-iod-teleconnections(d) to (f) shows the correlation between OSM and DMI in the INA region in different periods. OSM and DMI in Indonesia and Northern Australia show different relationships. When the IOD is in the positive phase, the OSM in Indonesia is delayed, while the monsoon arrives early in Northern Australia.
+According to the methodology defined in the last section, the correlation analysis between ONI (DMI) and OSM in the INA region at different periods was conducted. @fig-enso-iod-teleconnections (a) to (c) shows the positive correlation between OSM and ENSO phase, indicating that the positive phase of ENSO events (i.e., El Niño events) will delay the onset of austral monsoon over the INA region, which is consistent with previous expectations. @fig-enso-iod-teleconnections (d) to (f) shows the correlation between OSM and DMI in the INA region in different periods. OSM and DMI in Indonesia and Northern Australia show different relationships. When the IOD is in the positive phase, the OSM in Indonesia is delayed, while the monsoon arrives early in Northern Australia.
 
 In addition to the patterns described above, the variations of IOD's teleconnection patterns in different periods deserve attention. In the short-term teleconnection pattern (@fig-enso-iod-teleconnections f), the positive correlation between OSM and IOD phases in Indonesia disappears, while a strong negative correlation between OSM and IOD phases appears in northeastern Australia, which may suggest that the impact of the IOD on the monsoon pattern in the INA region has significantly changed in recent years. Meanwhile, the ENSO's teleconnection patterns in different periods show a high consistency.
 
