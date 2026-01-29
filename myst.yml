@@ -30,3 +30,8 @@ project:
   downloads:
   - file: CISP-ENSO-&IOD-On-Onset-of-Summer-Moonson-Australia-Code.zip
     title: Code
+  keywords:
+    - ENSO
+    - IOD
+    - Australia
+    - Climate Teleconnections
